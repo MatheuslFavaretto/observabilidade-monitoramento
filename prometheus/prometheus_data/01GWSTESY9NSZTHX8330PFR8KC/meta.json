@@ -1,0 +1,17 @@
+{
+	"ulid": "01GWSTESY9NSZTHX8330PFR8KC",
+	"minTime": 1679954783187,
+	"maxTime": 1679961600000,
+	"stats": {
+		"numSamples": 186366,
+		"numSeries": 869,
+		"numChunks": 2024
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01GWSTESY9NSZTHX8330PFR8KC"
+		]
+	},
+	"version": 1
+}
