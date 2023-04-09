@@ -4,7 +4,10 @@ Este é um projeto que faz parte do curso de Monitoramento com Prometheus, Grafa
 
 ## Descrição
 
-O Prometheus é uma ferramenta de monitoramento de código aberto que coleta métricas de sistemas e aplicações. O Grafana é uma plataforma de visualização de dados que permite criar painéis e dashboards com as métricas coletadas pelo Prometheus. Já o Alertmanager é uma ferramenta de alertas que permite definir regras e enviar notificações para as equipes de suporte quando ocorrem problemas nos sistemas monitorados. Este curso irá ensinar como instalar e configurar essas ferramentas, bem como criar dashboards e alertas personalizados para monitorar sistemas e aplicações de forma eficiente.
+- O Prometheus é uma ferramenta de monitoramento de código aberto que coleta métricas de sistemas e aplicações. 
+- O Grafana é uma plataforma de visualização de dados que permite criar painéis e dashboards com as métricas coletadas pelo Prometheus. 
+- Já o Alertmanager é uma ferramenta de alertas que permite definir regras e enviar notificações para as equipes de suporte quando ocorrem problemas nos sistemas monitorados. 
+Este curso irá ensinar como instalar e configurar essas ferramentas, bem como criar dashboards e alertas personalizados para monitorar sistemas e aplicações de forma eficiente.
 
 ##Requisitos
 
