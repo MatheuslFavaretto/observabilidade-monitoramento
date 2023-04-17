@@ -1,5 +1,11 @@
 # Curso de Monitoramento com Prometheus, Grafana e Alertmanager
 
+![linux_penguin_animal_9362](https://user-images.githubusercontent.com/116848225/232452402-9699f5d7-ad9b-41b0-a2f1-5d419d5fa3a5.png)
+![docker_original_wordmark_logo_icon_146557](https://user-images.githubusercontent.com/116848225/232452418-01b1fdef-1d3c-4c64-8aaf-cf7965118da0.png)
+![grafana_logo_icon_171049](https://user-images.githubusercontent.com/11684822
+![file_type_prometheus_icon_130229](https://user-images.githubusercontent.com/116848225/232452466-963b7286-1d5a-4373-b17f-cf2bb72ca8d5.png)
+5/232452442-8eb951c3-7474-42e6-acfb-ecbd8097a055.png)
+
 Este é um projeto que faz parte do curso de Monitoramento com Prometheus, Grafana e Alertmanager da Alura. O objetivo do projeto é ensinar como utilizar as ferramentas de monitoramento e alerta Prometheus, Grafana e Alertmanager.
 
 ## Descrição
